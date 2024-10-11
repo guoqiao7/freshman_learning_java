@@ -5,6 +5,7 @@ package com.cskaoyan._0test;
  * @author: 景天
  * @date: 2023/12/27 9:46
  **/
+//测试通过IDEA提交
 
 public class Demo {
     public static void main(String[] args) {
